@@ -19,6 +19,11 @@
 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <br>
+  
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/wildfly-blueviolet?style=for-the-badge&logo=wildfly&logoColor=white">
+<img src="https://img.shields.io/badge/jeus-blue?style=for-the-badge&logo=jeus&logoColor=white">
+<br>
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
