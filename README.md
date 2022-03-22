@@ -1,4 +1,4 @@
-<h3>Hi 😄</h3>
+<h3>Hi There!👋</h3>
 <br>
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 <div>
