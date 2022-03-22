@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=ChanghunLEE&fontSize=70)
-
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<div align="center">
+<h3>Hi 😄</h3>
+<br>
+<h3><b>🛠 Tech Stack 🛠</b></h3>
+<div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
