@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=ChanghunLEE&fontSize=70)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leechun1095)](https://github.com/anuraghazra/github-readme-stats)
 
