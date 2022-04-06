@@ -37,16 +37,16 @@
 <img src="https://img.shields.io/badge/정보처리기사-lightgrey?style=for-the-badge&logo=정보처리기사&logoColor=white">
 <br>
   
-<img src="https://img.shields.io/badge/투자자산운용사-inactive?style=for-the-badge&logo=투자자산운용사&logoColor=white">
-<img src="https://img.shields.io/badge/AFPK-inactive?style=for-the-badge&logo=AFPK&logoColor=white">
-<img src="https://img.shields.io/badge/파생상품투자상담사-inactive?style=for-the-badge&logo=파생상품투자상담사&logoColor=white">
-<img src="https://img.shields.io/badge/증권투자상담사-inactive?style=for-the-badge&logo=증권투자상담사&logoColor=white">
-<img src="https://img.shields.io/badge/펀드투자상담사-inactive?style=for-the-badge&logo=펀드투자상담사&logoColor=white">
+<img src="https://img.shields.io/badge/투자자산운용사-inactive?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/파생상품투자상담사-inactive?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/증권투자상담사-inactive?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/펀드투자상담사-inactive?style=for-the-badge&logo=&logoColor=white">
 <br>
 
-<img src="https://img.shields.io/badge/자산관리사(FP)-inactive?style=for-the-badge&logo=자산관리사(FP)&logoColor=white">
-<img src="https://img.shields.io/badge/외환전문역 1종-inactive?style=for-the-badge&logo=외환전문역 1종&logoColor=white">
-<img src="https://img.shields.io/badge/은행텔러-inactive?style=for-the-badge&logo=은행텔러&logoColor=white">
+<img src="https://img.shields.io/badge/AFPK-inactive?style=for-the-badge&logo=AFPK&logoColor=white">
+<img src="https://img.shields.io/badge/자산관리사(은행FP)-inactive?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/외환전문역 1종-inactive?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/은행텔러-inactive?style=for-the-badge&logo=&logoColor=white">
 
 </div>
 <br>
