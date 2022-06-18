@@ -64,8 +64,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leechun1095)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleechun1095&count_bg=%233DBCC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://blog.naver.com/dlckdgjs89" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleechun1095&count_bg=%233DBCC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) 
 [![Tistory Badge](https://img.shields.io/badge/T%20Blog-555263?style=flat&logoColor=white)](https://leechun.tistory.com/)
 
 <!--
