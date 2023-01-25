@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <br>
-
+<!--
 <h3>🌱 Certificate</h3>
 <div>
 <img src="https://img.shields.io/badge/정보처리기사-lightgrey?style=for-the-badge&logo=&logoColor=white">
@@ -49,6 +49,7 @@
 <img src="https://img.shields.io/badge/은행텔러-inactive?style=for-the-badge&logo=&logoColor=white">
 
 </div>
+-->
 <br>
   
 <h3>🏅 Baekjoon solved rank</h3>
